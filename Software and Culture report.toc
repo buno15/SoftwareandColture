@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}What is virtualization}{2}{section.2}%
+\contentsline {section}{\numberline {3}Virtualization services}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Video conferencing service}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Voice call messaging tool}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Integrated communication platforms}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Virtual office}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Virtual environment using VR/AR}{5}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Impact of the pandemic}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Expanding remote work and virtualization services}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Impact of remote work and virtualization services}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Predictions for virtualization services after the pandemic}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Post-pandemic working environment}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Adapting to remote work and virtualization}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}New virtualization services using VR and AR}{13}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Conclusion}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Benefits from the spread of remote communication through virtualization services}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Changes from pre-pandemic to post-pandemic}{15}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}New virtualization service}{15}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Spread of full remote work/hybrid work}{16}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Strengthening international communication}{16}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Future lessons and risk responses}{16}{subsection.6.6}%
