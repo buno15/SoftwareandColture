@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Software and Culture report.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty booktitle in inproceedings
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            578 strings with 6820 characters,
+and the built_in function-call counts, 5119 in all, are:
+= -- 439
+> -- 258
+< -- 0
++ -- 109
+- -- 84
+* -- 263
+:= -- 865
+add.period$ -- 49
+call.type$ -- 21
+change.case$ -- 105
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 172
+empty$ -- 470
+format.name$ -- 84
+if$ -- 1063
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 6
+newline$ -- 94
+num.names$ -- 42
+pop$ -- 161
+preamble$ -- 1
+purify$ -- 84
+quote$ -- 0
+skip$ -- 192
+stack$ -- 0
+substring$ -- 164
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 1
+while$ -- 47
+width$ -- 23
+write$ -- 174
+(There was 1 warning)
